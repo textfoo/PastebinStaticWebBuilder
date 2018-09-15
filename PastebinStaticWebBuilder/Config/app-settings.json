@@ -1,0 +1,9 @@
+{
+  "MongoDBSettings": {
+    "ConnectionString": "mongodb://localhost:27017/?readPreference=primary",
+    "Name": "Localhost"
+  },
+  "HtmlBuilderSettings": {
+    "Path": "C:\\Code\\github\\textfoo.github.io"
+  }
+}

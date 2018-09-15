@@ -1,0 +1,7 @@
+﻿<nav>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="https://github.com/textfoo/PastebinAnalysis">Repo</a></li>
+        <li><a href="/pages/about.html">About</a></li>
+    </ul>
+</nav>
